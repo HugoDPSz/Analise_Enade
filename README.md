@@ -13,7 +13,7 @@ Este repositório contém uma análise exploratória de dados do ENADE (Exame Na
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
-- Jupyter Notebook
+- Google Colab
 
 ## 📌 Objetivos
 
